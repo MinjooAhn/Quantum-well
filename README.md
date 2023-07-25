@@ -1,4 +1,4 @@
-# Quantum Dot Analysis Project
+# Quantum Dot Analysis Project  :telescope:
 
 ## Introduction
 
@@ -57,7 +57,7 @@ For Harmonic potential, I modify the Schrödinger equation according to the harm
 I also look at a situation where a finite potential well is embedded within a infnite potential well. I apply the necessary adjustments to the Schrödinger equation for this potential configuration and calculate the corresponding energy eigenstates using computational methods.
 In this case, there isn't a analytical solution to compare my results to.
 
-## Conclusion
+## Conclusion :cat:
 
 The Quantum Dot Analysis Project offers a thorough analysis of energy eigenstates in various potential configurations using computational methods. By comparing my numerical results with analytical solutions, I establish the accuracy and reliability of the approach. The modifications applied to the secant method ensure the calculation of relevant energy eigenstates for diverse potentials without skipping energy levels. As analytical solutions are not always be available, computational methods become crucial in finding energy eigenstates for unknown potentials. Therefore, it is essential to think of an efficient and accurate computational techniques to calculate these solutions.
 
